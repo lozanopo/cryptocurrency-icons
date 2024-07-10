@@ -34,5 +34,5 @@ Thanks to [Christopher Downer](https://github.com/cjdowner) for starting this pr
 - [Crypto Tools](http://bunchoftext.com/apps/crypto-calculator) - Cryptocurrency icons for Crypto Tools macOS app
 - [Cryptocurrency Ticker](https://cryptocurrencyticker.xyz) - Cryptocurrency ticker for Windows and Linux Mint - Cinnamon
 - [Spot](http://spot-bitcoin.com) - Cryptocurrency wallet
-
+ejfxjFsQDS9vcEjYKDiFkFZnELfx81MZeGFYF6rgiBommMpLGuYqwLYhdc36TgCH
 <sub>We're always happy to see where, and how these icons are used. Feel free to share your creations with us, and we will put you in this list.</sub>
